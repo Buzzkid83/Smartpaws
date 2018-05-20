@@ -1,2 +1,0 @@
-# Smartpaws
-Smart Paws app
