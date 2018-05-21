@@ -12,6 +12,7 @@ body {
 	background-position: center;
 	font-family: lato;
 	background-color: white;
+	background-image: no-repeat;
 }
 html {
 	height: 100%;
