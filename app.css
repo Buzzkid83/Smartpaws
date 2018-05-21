@@ -7,16 +7,15 @@
 }
 
 body {
-	background: url(https://images.unsplash.com/photo-1453487977089-77350a275ec5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bda76c65af599f6b2add818a302ce46c&auto=format&fit=crop&w=753&q=80);
+	
 	background-size: cover;
 	background-position: center;
 	font-family: lato;
 	background-color: white;
-	background-repeat: no-repeat;
 }
 html {
 	height: 100%;
-	
+	width: 100%
 }
 
 h1 {
@@ -36,4 +35,8 @@ hr {
 }
 .fa {
 	padding-right: 5px;
+}
+img {
+	max-width: 100%;
+	height: auto;
 }
